@@ -19,7 +19,7 @@ Interested in quantitative modeling, time series forecasting, and applied machin
 
 **[Retail Revenue Forecasting](https://github.com/Hukko0401/Datathon_2GAY)** — XGBoost/LightGBM ensemble with lag, rolling, and Fourier features. R²=0.77 on walk-forward validation. *Datathon VinUni 2026, Semifinal.*
 
-**Bird Migration Failure Prediction** — Binary classification pipeline (XGBoost tuned via GridSearchCV). Recall=0.87, SHAP group analysis across behavioral/environmental/technological factors. *Advanced Data Analytics, 2026.*
+**[Bird Migration Failure Prediction](https://github.com/Hukko0401/bird-migration-prediction)** — Binary classification pipeline (XGBoost tuned via GridSearchCV). Recall=0.87, SHAP group analysis Behavioral 43.8% > Environmental 30.7% > Technological 25.5% factors. *Advanced Data Analytics, 2026.*
 
 **Vinhomes Real Estate Price Prediction** — Web scraping (4,362 listings) + XGBoost with TF-IDF text features. R²=0.9617. Deployed AI agent via n8n + Supabase. *Digital Marketing Analytics, 2026.*
 
